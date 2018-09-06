@@ -1,0 +1,29 @@
+>>Import databas file from DB folder and name it "online_notice" !!!
+
+>>If not connect DB then check connection.php page
+
+>> contact form may not work in localhost.
+
+>> ADMIN LOGIN 
+(
+
+For Admin panel go to URL- http://localhost/Online_notice_board/admin/
+				 
+				 OR
+http://localhost:8080/Online_notice_board/admin/
+				OR
+http://localhost(YOUR PORT NUMBER)/Online_notice_board/admin/
+
+)
+
+Username: admin@gmail.com	
+Password: admin
+
+
+Don't forget to create the DB naming "online_notice.sql"
+>>without DB it will make some error and not run properly & can not store/retrive any result.
+
+***** If found any problem then contact with us ***** 
+
+
+Mail: limon7530.it@gmail.com

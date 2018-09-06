@@ -1,0 +1,17 @@
+admin access:::
+admin@gmail.com
+ pass: admin
+
+
+
+
+regular user access:::
+limon@gmail.com
+pass:1234
+
+ this@gmail.com
+pass:1234
+
+
+cse@gmail.com
+1234

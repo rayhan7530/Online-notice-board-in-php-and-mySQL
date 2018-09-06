@@ -1,0 +1,50 @@
+.bodyx
+{ font-size: 16px ;
+  color: #222;
+  line-height: 1.4em;
+  background: #F1F1F1;
+  width: 90%;
+  margin: 10px auto 0px auto;}
+  
+p
+{ line-height: 1.5em;
+  padding-bottom: 17px;}
+
+#basic-accordian
+{ padding: 0px;
+  background: #FFF;}
+
+.accordion_headings
+{ padding: 10px 25px 10px 25px;
+  background: #E1E1E1;
+  color: #111;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #CCC;
+  cursor: pointer;
+  font-size: 120%;
+  position: relative;
+  z-index: 20;}
+
+.accordion_child
+{ padding: 25px;
+  background: #FFF;}
+
+.header_highlight
+{ background: #E1E1E1;
+  color: #FF0971;}
+
+
+  #footer p
+{ letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px;
+  color: #444;
+  font-size: 90%;}
+
+#footer a, #footer a:hover
+{ color: #76786A;
+  text-decoration: none;
+  border: 0;}
+
+
