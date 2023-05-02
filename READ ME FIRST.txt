@@ -15,15 +15,19 @@ http://localhost:8080/Online_notice_board/admin/
 http://localhost(YOUR PORT NUMBER)/Online_notice_board/admin/
 
 )
-
+ADMIN::
 Username: admin@gmail.com	
 Password: admin
+
+USER::
+Username: this@gmail.com
+Pass:1234
+
+limon@gmail.com
+1234
 
 
 Don't forget to create the DB naming "online_notice.sql"
 >>without DB it will make some error and not run properly & can not store/retrive any result.
 
 ***** If found any problem then contact with us ***** 
-
-
-Mail: limon7530.it@gmail.com
